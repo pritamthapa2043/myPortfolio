@@ -152,7 +152,7 @@ export const experiences = [
         projectName: "Asset Management",
         work: [
           "Led end-to-end development of Asset Management module, including REST API design, database schema, and interactive React UI deployment",
-          "Reduced query latency by 60% by designing optimized PostgreSQL data models, REST APIs, and indexing strategies",
+          "Reduced query latency by 30% by designing optimized PostgreSQL data models, REST APIs, and indexing strategies",
           "Developed WebSocket APIs for real-time CSV import of over 2,000 assets data with live progress tracking",
           "Developed core UI framework with 10+ reusable components (tables, filters, export tools, CSV importers). adopted across multiple modules",
           "Conducted rigorous load testing using JMeter, validating system stability and performance under load (200+ concurrent users).",

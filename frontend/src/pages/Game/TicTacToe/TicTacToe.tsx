@@ -130,6 +130,9 @@ const TicTacToe = () => {
           {/* ONLINE Mode Inputs */}
           {gameMode === "ONLINE" && (
             <div className="flex flex-col items-center space-y-4 w-full max-w-xs">
+              <h1 style={{ color: "red", fontSize: "1.3rem" }}>
+                ⚠️ Under Maintaince (Database)
+              </h1>
               <div className="flex space-x-4">
                 <button
                   onClick={() => {
